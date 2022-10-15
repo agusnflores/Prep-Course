@@ -270,7 +270,6 @@ function esVocal(letra){
   }
 
   }
-}
 
 
 
